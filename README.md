@@ -1,4 +1,4 @@
-# Semantic Search System – Trademarkia AI/ML Assignment
+# Semantic Search System
 
 This project implements a lightweight semantic search system built on the 20 Newsgroups dataset (~20,000 documents).
 
